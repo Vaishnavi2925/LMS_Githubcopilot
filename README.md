@@ -1,6 +1,5 @@
 # 📚 Library Management System
-![Uploading LMS.jpg…]()
-
+<img width="4000" height="3000" alt="LMS" src="https://github.com/user-attachments/assets/69f8f11e-b4c5-4eea-a4a5-0850d4b4bda8" />
 
 A professional, full-stack Library Management System built with Django REST Framework. Manage books and authors with a beautiful, responsive web interface and REST API.
 
